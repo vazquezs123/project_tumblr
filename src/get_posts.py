@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 
 from post import Post
+import sys
 import re
 
-file = open("/home/svaquez/project_tumblr/tumblr_posts/tumblr_2010_posts", "r")
+postsFile=sys.argv[1]
+file = open(postsFile, "r")
 
 for line in file:
 	#print(line)

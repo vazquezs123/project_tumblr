@@ -70,3 +70,6 @@ class Post(object):
 	
 	def getContent(self):
 		return self.content
+
+	def searchWord(self, content, word):
+		
