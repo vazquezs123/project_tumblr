@@ -1,0 +1,10 @@
+class Post(object):
+	def __init__(self, date, content):
+		self.date = date
+		self.content = content
+
+	def getDate():
+		return self.date
+	
+	def getContent():
+		return self.content
