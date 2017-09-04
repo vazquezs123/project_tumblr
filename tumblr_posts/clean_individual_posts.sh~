@@ -1,0 +1,31 @@
+#!bin/sh
+grep -o \<p.*\</p /home/svaquez/tumblr_posts/individual_posts/* > /home/svaquez/tumblr_posts/tumblr_dictionary
+
+#clean dictionary
+perl -pi.back -e 's/<p>//g;' tumblr_dictionary
+
+perl -pi.back -e 's/<\/p//g;' tumblr_dictionary
+
+perl -pi.back -e 's/<br \/>//g;' tumblr_dictionary
+
+perl -pi.back -e 's/&nbsp//g;' tumblr_dictionary
+
+perl -pi.back -e 's/&rsquo;/'\''/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&hellip;/.../g;' tumblr_dictionary
+
+perl -pi.back -e 's/&quot;/"/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&ldquo;/"/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&rdquo;/"/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&lt;/</g;' tumblr_dictionary
+
+perl -pi.back -e 's/&gt;/>/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&mdash;/-/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&ndash;/-/g;' tumblr_dictionary
+
+perl -pi.back -e 's/&amp;/&/g;' tumblr_dictionary

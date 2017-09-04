@@ -9,8 +9,15 @@ class Post(object):
 		content = strippedLine[1:]
 		
 		self.date = self.parseDate(unparsedDate)
-		self.content = content
+		self.content = self.cleanContent(content)
 
+	def cleanContent(self, content):
+		print("got content")
+		tempCont = str(content).replace('\\n','')
+		tempCont = tempCont.replace('\t','')
+		print("tempcont:" + str(tempCont))
+		return tempCont
+	
 	def parseDate(self, unparsedDate):
 		strippedDate = re.sub('[\s+]', '', unparsedDate)
 		monthDay, year = strippedDate.split(",")
@@ -72,4 +79,4 @@ class Post(object):
 		return self.content
 
 	def searchWord(self, content, word):
-		
+		pass	

@@ -1,0 +1,34 @@
+- to do: read article on emotions
+- goal: 
+	- each post has a day, month, year, content
+	- each content has emotions
+	- each emotion has words associated with it
+	- each word associated has a count
+
+- need:
+	- script that takes in a yearly tumblr_post file and generates a csv with the above fields
+		- objects:
+			1. post
+				- attributes:
+					1. day
+					2. month
+					3. year
+					4. content
+			2. content
+				- attributes:
+					1. happy
+					2. content
+					3. excited
+					4. loving
+					5. sympathetic
+					6. optimistic
+					7. flirty
+					8. horny
+					9. cheerful
+					10. sad
+					11. angry
+					12. depressed
+					13. envious
+					14. weird
+					15. stresssed
+					16. guilty

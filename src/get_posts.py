@@ -14,7 +14,4 @@ for line in file:
 	#strippedLine = re.sub('[\s+]', '', line)
 	post = Post(line)
 	#print(strippedLine)
-	print("DATE: " + post.getDate())
-	print("CONTENT: " + str(post.getContent()))
-	print("YEAR: " + post.getYear())
-	print("MONTH: " + post.getMonth())
+	print("DATE: " + post.getDate() + "---CONTENT: " + str(post.getContent()) + "---YEAR: " + post.getYear() + "---MONTH: " + post.getMonth())

@@ -1,0 +1,346 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta http-equiv="x-dns-prefetch-control" content="off"/><meta name="viewport" content="width=960" id="viewport"><title>Behind the Smile: Archive</title><link rel="icon" href="http://33.media.tumblr.com/avatar_ec82c88be7a3_128.png" type="image/png"/><link rel="stylesheet" media="screen" href="http://assets.tumblr.com/client/prod/app/styles/global.css?_v=563398497af25fcdb837443b1ad29ef2">
+<link rel="stylesheet" media="screen" href="http://assets.tumblr.com/client/prod/app/context/archive/styles.css?_v=9c703011056f49104deaccd519f7c16e">
+<script>var _flags = 'eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aV9wYXJzZV90ZXN0Ijp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwiZGFzaGJvYXJkX2ljb25fcmV2b2x1dGlvbiI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9zZWFyY2giOnRydWUsIm1vYmlsZV93ZWJfc2VhcmNoX2ZpbHRlciI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwiYmxvY2tfZmVhdHVyZSI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2VwaGVtZXJhbF9sb2ciOnRydWUsImxvZ19sYWR5Ijp0cnVlLCJjc2xvZ2dlcl9qcyI6dHJ1ZSwiZGlzY292ZXJ5X2h1Yl9hY2Nlc3MiOnRydWUsImhlYWRlcl9hY2NvdW50X21lbnUiOnRydWUsImVuYWJsZV9wcmltYV9zaGFyZV9wb3BvdmVyIjp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicGludGVyZXN0X3NoYXJpbmciOnRydWUsInJlZGRpdF9zaGFyaW5nIjp0cnVlLCJwb3N0X2l0X2ZvcndhcmQiOnRydWUsInBlZXByX3NlYXJjaF9hbmRfZmlsdGVyIjp0cnVlLCJpbnRlcm5zX3BhZ2UiOnRydWUsImZvbGxvd2VkX3NlYXJjaGVzX2JpZ193ZWIiOnRydWUsImRpc2FibGVfcHVibGljX3JlcGxpZXMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWV9' </script>
+<script src="http://assets.tumblr.com/client/prod/app/header/index.js?_v=a39e76a47dc4ef33d667c33a59f6123d"></script>
+<script src="http://assets.tumblr.com/client/prod/app/vendor/index.js?_v=aa50ea4f6dd1fe4869a12c7b7125a2c4"></script>
+<script >
+    Tumblr.assets_host       = 'http://assets.tumblr.com';
+        Tumblr.getRealNow = (function(p, ts) {
+        var start = (p && p.timing && p.timing.responseStart) || Date.now();
+        return function() { return ts + (Date.now() - start); };
+    })(window.performance, 1454083061000);
+
+    Tumblr.started_at = (new Date()).getTime();
+    Tumblr.real_started_at = Tumblr.getRealNow();
+            Tumblr._log_lady_bootstrap = {"keys":{"search_landing_usage":{"init_event":false,"keep_counts":true,"flags":[]},"search_session_v1":{"init_event":false,"keep_counts":false,"flags":[]}},"default_session":"llsid56ab8bf5cf4357.71285745"};
+    </script><script src="http://assets.tumblr.com/languages/strings/en_US.js?1343"></script><script src="http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js?_v=d9c981097e19ddd4e05b50e906b5a76b"></script>
+<script src="http://assets.tumblr.com/assets/scripts/archive/archive.js?_v=8c98b1ded7b017ee2a99e5530361ad2b"></script>
+<script>
+            var l10n_str = l10n_str || {},
+            just_clicked_browse_months = false,
+            is_mobile = RegExp(" Mobile/").test(navigator.userAgent);
+        </script><!--[if lt IE 9]><script>
+              document.createElement('header');
+              document.createElement('nav');
+              document.createElement('section');
+              document.createElement('article');
+              document.createElement('aside');
+              document.createElement('footer');
+           </script><![endif]--></head><body id="body"><header id="nav_archive" class="blue_bar"><a href="/" class="title"><span id="back_to_blog"></span><img class="avatar" src="http://38.media.tumblr.com/avatar_ec82c88be7a3_40.png" alt="" /><h1 class="blog_title">Behind the Smile</h1></a><div id="browse_months"><div id="jump_to_month"><span class="month">Month </span><span class="icon_arrow_carrot_down"></span></div></div><div class="archive-controls inactive" data-view="archive-controls"><div class="search_control post_mode"><div class="search_control_items"><div class="filter_popover_menu search_control_item post_type_filter_menu search_control" data-search-action-type="filter_post_type"><a href="#" class="launch_button search_control_button"><i class="filter_popover_arrow icon_arrow_carrot_down"></i><span class="control_text">Filter by post type</span></a><div class="filter_popover popover_v2" style=""><div class="menu_inner"><span class="filter_popover_nipple"></span><div class="menu_item post_all_filter" data-search-action-value="all"><i class="icon icon_posts"></i><span class="menu_item_text">All posts</span></div><hr class="item_divider" /><div class="menu_item post_type post_text_filter" data-search-action-value="text"><i class="icon icon_post_text_small"></i><span class="menu_item_text">Text</span></div><div class="menu_item post_type post_photo_filter" data-search-action-value="photo"><i class="icon icon_post_photo_small"></i><span class="menu_item_text">Photo</span></div><div class="menu_item post_type post_quote_filter" data-search-action-value="quote"><i class="icon icon_post_quote_small"></i><span class="menu_item_text">Quote</span></div><div class="menu_item post_type post_link_filter" data-search-action-value="link"><i class="icon icon_post_link_small"></i><span class="menu_item_text">Link</span></div><div class="menu_item post_type post_chat_filter" data-search-action-value="chat"><i class="icon icon_post_chat_small"></i><span class="menu_item_text">Chat</span></div><div class="menu_item post_type post_audio_filter" data-search-action-value="audio"><i class="icon icon_post_audio_small"></i><span class="menu_item_text">Audio</span></div><div class="menu_item post_type post_video_filter" data-search-action-value="video"><i class="icon icon_post_video_small"></i><span class="menu_item_text">Video</span></div></div></div></div></div></div>
+</div><nav id="register" class="nav_right"><iframe scrolling="no" frameborder="0" id="tumblr_controls" src="http://assets.tumblr.com/assets/html/archive_iframe.html?_v=133a60ecf32bd0b5e9f2e35e4e4be7c1#src=http%3A%2F%2Fseniorscooba.tumblr.com%2Farchive%2F2012%2F1&amp;name=seniorscooba" width="400" height="28" style="border:0; background-color:transparent; overflow:hidden; "></iframe></nav></header><div class="l-content"><!-- START CONTENT --><header class="heading" style="display:none;"><h2 class="date">January 2012</h2></header><section id="posts_201201" class="posts loading" style="display:none;">
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16847568358" ><div class="post_content"><div class="post_content_inner"><p>happy I decided to visit mah baaaaybaaaay</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16847568358/happy-i-decided-to-visit-mah-baaaaybaaaay"><div class="hover_inner"><span class="post_date">Jan 31, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16824483204" ><div class="post_content"><div class="post_content_inner"><p>I must admit&hellip;I am a tad worried&hellip;just hope your alright</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16824483204/i-must-admiti-am-a-tad-worriedjust-hope-your"><div class="hover_inner"><span class="post_date">Jan 31, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16799400544" ><div class="post_content"><div class="post_content_inner"><p>I listen to the sound of you hanging up&hellip;cuz it means your still there&hellip;.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16799400544/i-listen-to-the-sound-of-you-hanging-upcuz-it"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_video post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_body no_notes reblog_ui_refresh has_hover" id="post_micro_16795267947" ><div class="post_content"><div class="post_content_inner"><div class="post_thumbnail_container has_imageurl" style="height: 112px; width: 150px;" data-imageurl="https://i.ytimg.com/vi/fhMlSITt7hU/hqdefault.jpg"><div class="play_button"><span class="play_button_label">Play</span></div></div>
+</div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16795267947"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16790852533" ><div class="post_content"><div class="post_content_inner"><div class="post_title"> </div><p>you know when I&rsquo;m upset, though I will never admit&hellip;fuck now i can&rsquo;t do my homework and have to write if I expect to accomplish anything for the rest of the night. &nbsp;</p>
+<p>Fuuuuuuuuuuuuuuuuuuuck.  There&rsquo;s a reason I don&rsquo;t enjoy video chatting. &nbsp; I see your face, and sfdahfsdl;jk;ljksdfkslfsdakklsdf;lkjfsdlkfljkasdsewrw8ta;rhozixf. &nbsp;&hellip;.but this is me being a me: A greedy, needy, son of a gun&hellip; fuck you steven</p>
+
+<p>parents&hellip;stop the the fucking arguing already&hellip;Ma I know pa can fuck up&hellip;A lot..but it&rsquo;s not he&rsquo;s a good man. I swear. &nbsp;I know he can be oblivious to the world, and seem not to care at times, but that&rsquo;s just him. &nbsp;Not everyone can be like you. &nbsp;Shit I&rsquo;m like you, and I wish I were as passive as pa at times. &nbsp;Sometimes it doesn&rsquo;t even seem like you care about him. &nbsp;He shows more compassion and love towards you than a lot of other husbands I&rsquo;ve seen. &nbsp;Can&rsquo;t you see he loves you with all his heart? &nbsp;I know you have to stay on him because he&rsquo;ll forget, which I&rsquo;m fine with. &nbsp;Just don&rsquo;t get too upset when he watching television, or reprimanding Nick. &nbsp;Please?</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16790852533"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16790598845" ><div class="post_content"><div class="post_content_inner"><p>yea&hellip;.your friends&hellip;shopping&hellip;.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16790598845/yeayour-friendsshopping"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16788018758" ><div class="post_content"><div class="post_content_inner"><p>You don&rsquo;t realize it, but I&rsquo;m staring directly at you. &nbsp;I&rsquo;m not reading. &nbsp;You&rsquo;re so beautiful.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16788018758/you-dont-realize-it-but-im-staring-directly-at"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16786083679" ><div class="post_content"><div class="post_content_inner"><p>shit.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16786083679/shit"><div class="hover_inner"><span class="post_date">Jan 30, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16732266370" ><div class="post_content"><div class="post_content_inner"><p>Fuck bitches bitches and their bitches&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16732266370/fuck-bitches-bitches-and-their-bitches"><div class="hover_inner"><span class="post_date">Jan 29, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16683157481" ><div class="post_content"><div class="post_content_inner"><div class="post_title">a</div><p>GAh&hellip;.Aleysha withdrawal&hellip;.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16683157481/a"><div class="hover_inner"><span class="post_date">Jan 29, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16673250511" ><div class="post_content"><div class="post_content_inner"><p>It is inconceivable how I could love every instant I am with you but fall apart the moment you close your door.  I have a reason.  You have managed to become a part of me and when you leave, the part you have become is ripped from my flesh.  Only until the day we meet again and my puzzle of a body is placed together again will my body witness the greatest joy man could ever know.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16673250511/it-is-inconceivable-how-i-could-love-every-instant"><div class="hover_inner"><span class="post_date">Jan 28, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16672015756" ><div class="post_content"><div class="post_content_inner"><p>Yea&hellip;I love you.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16672015756/yeai-love-you"><div class="hover_inner"><span class="post_date">Jan 28, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16616970747" ><div class="post_content"><div class="post_content_inner"><p>You&rsquo;ve suddenly made me excited for tomorrow&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16616970747/youve-suddenly-made-me-excited-for-tomorrow"><div class="hover_inner"><span class="post_date">Jan 27, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16612903663" ><div class="post_content"><div class="post_content_inner"><p>Im frightened about tomorrow&hellip; Shit is happening.  You will prospect the school you are most likely attending.  Knowing my college wont be the same as yours is most disheartening.  The only reason I don&rsquo;t desire to go is ruining your experience with my selfish gloominess.  I know how much this means to you and I would do anything to make you happy.  Im gonna dig real deep to find that easy going&hellip;free loving Steven tomorrow and days t o come &hellip;.</p>
+
+<p>Sidenote: I don&rsquo;t want to work out but it is necessary.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16612903663/im-frightened-about-tomorrow-shit-is-happening"><div class="hover_inner"><span class="post_date">Jan 27, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16552420432" ><div class="post_content"><div class="post_content_inner"><p>*sigh&hellip;..how could I say no to you&hellip; I was going  to make you chocolate chip pancakes&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16552420432/sighhow-could-i-say-no-to-you-i-was-going-to"><div class="hover_inner"><span class="post_date">Jan 26, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16529661864" ><div class="post_content"><div class="post_content_inner"><p>These people are so ignorant. Its amusing actually.  They argue back and fourth about nonsense.  Who cares if your black or &ldquo; habibi&rdquo;.  At least I&rsquo;m done with classes for the day.  Haha I don&rsquo;t know how Adam got fired from service.  He&rsquo;s a clown.   Its not so surprising though.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16529661864/these-people-are-so-ignorant-its-amusing"><div class="hover_inner"><span class="post_date">Jan 26, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16493669979" ><div class="post_content"><div class="post_content_inner"><p>EPIPHANY: I see you once, I miss you more.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16493669979/epiphany-i-see-you-once-i-miss-you-more"><div class="hover_inner"><span class="post_date">Jan 25, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16490405233" ><div class="post_content"><div class="post_content_inner"><div class="post_title">Greedy Bastard.</div><p> I don&rsquo;t know whether I&rsquo;m upset, depressed, or whatever. &nbsp;This funk crept on me and pounced like a lion. &nbsp;I have this blah state of mind. &nbsp;I don&rsquo;t feel like caring. &nbsp;A combination of parents, school, weariness, and not being with you is creating a monster who doesn&rsquo;t want to care anymore. &nbsp;</p>
+<p> I&rsquo;m sorry about the how I acted. &nbsp;It&rsquo;s difficult forcing a smile, when there doesn&rsquo;t seem like much to smile about. &nbsp;I so badly wanted to be with you today. &nbsp;My father wanted me home by 6. &nbsp;I don&rsquo;t know why I listened to him. &nbsp;Then again, why wouldn&rsquo;t I? &nbsp;You&rsquo;re so good at following directions and doing what people ask of you. &nbsp;You make it your job and duty. &nbsp;It&rsquo;s a great characteristic. &nbsp;</p>
+<p> I hate how greedy I am. &nbsp;I&rsquo;d rather be with you than with my friends. &nbsp;I drop my plans with friends at the drop of a dime if I feel like there may be the slightest chance of me seeing you. &nbsp;I&rsquo;m addicted.&nbsp;</p>
+<p> I need t stop. &nbsp;Stop Steven. &nbsp;Stop. &nbsp;You can love Aleysha and be with her and not always have to be with her. &nbsp;I&rsquo;m not always with her though. &nbsp;I see once a week, two days if I&rsquo;m lucky. &nbsp;WHY AM I SO FUCKING NEEDY. &nbsp;Stop being a pussy Steven. &nbsp;GROW A FUCKING PAIR. &nbsp;</p>
+<p> I miss you. &nbsp;When you told me about dance club starting again Wednesday, all I could think about was not seeing you. &nbsp;It depressed me. &nbsp;I&rsquo;m afraid to commit to things because of you, and I know it&rsquo;s foolish. &nbsp;FUUUUCK you have rehearsal Friday. &nbsp;I could have gone to D.A.I.S. &nbsp;Oh well. &nbsp;I wish I kissed you more today. &nbsp;I miss your kisses. &nbsp;I miss your lips. &nbsp;I wish I could always be happy like you&hellip;</p>
+<p> I came home and literally did nothing. &nbsp;Why did I have to be home at 6? I don&rsquo;t know. &nbsp;But now that I&rsquo;ve ranted, rambled, and vented, I can text you&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16490405233/greedy-bastard"><div class="hover_inner"><span class="post_date">Jan 25, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16452020838" ><div class="post_content"><div class="post_content_inner"><p>I had to hear your voice&hellip;.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16452020838/i-had-to-hear-your-voice"><div class="hover_inner"><span class="post_date">Jan 25, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16422731349" ><div class="post_content"><div class="post_content_inner"><p>I miss you like a lost child misses their mother.  My chest tightens at the thought of not being with you.  Your text reads &ldquo; hey&rdquo;&hellip; I wanna reply &ldquo;come home to me &rdquo;.  Dreams of you by my side cease to compensate for a minute with you in my reality, but I would give a thousand dreams for one kiss with you&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16422731349/i-miss-you-like-a-lost-child-misses-their-mother"><div class="hover_inner"><span class="post_date">Jan 24, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16416115421" ><div class="post_content"><div class="post_content_inner"><p>School&hellip;please&hellip;end&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16416115421/schoolpleaseend"><div class="hover_inner"><span class="post_date">Jan 24, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16375968340" ><div class="post_content"><div class="post_content_inner"><p>Such a creep&hellip;.im watching your challenge episode on demand</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16375968340/such-a-creepim-watching-your-challenge-episode"><div class="hover_inner"><span class="post_date">Jan 23, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16290848490" ><div class="post_content"><div class="post_content_inner"><p>Monkey your taking forever&hellip;.but your beautiful&hellip;..I will love you forever</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16290848490/monkey-your-taking-foreverbut-your-beautifuli"><div class="hover_inner"><span class="post_date">Jan 22, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16268604507" ><div class="post_content"><div class="post_content_inner"><p>No more hints</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16268604507/no-more-hints"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16263768359" ><div class="post_content"><div class="post_content_inner"><p>blah blah blah</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16263768359/blah-blah-blah"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16263561881" ><div class="post_content"><div class="post_content_inner"><p>tumblr&hellip;.truth is&hellip;you&rsquo;re my bestfriend&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16263561881/tumblrtruth-isyoure-my-bestfriend"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_video post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original is_direct_video with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16259763953" ><div class="post_content"><div class="post_content_inner"><div class="post_thumbnail_container has_imageurl" style="height: 84px; width: 150px;" data-imageurl="http://media.tumblr.com/tumblr_ly6e19QrdQ1qcwv4t_frame1.jpg"><div class="play_button"><span class="play_button_label">Play</span><div class="play_time">0:22</div></div></div>
+</div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16259763953/haha"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_photo post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16259312578" ><div class="post_content"><div class="post_content_inner"><div class="post_thumbnail_container has_imageurl" style="height: 265px; width: 150px;" data-imageurl="http://40.media.tumblr.com/tumblr_ly6dpnlKaR1qcwv4to1_250.jpg"></div></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16259312578/i-finally-got-pics-and-vids-from-my-phone-i-love"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16257824462" ><div class="post_content"><div class="post_content_inner"><p>oh no&hellip;im slipping&hellip; </p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16257824462/oh-noim-slipping"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16256724872" ><div class="post_content"><div class="post_content_inner"><p>The most eventful thing Ive done today was build a snow woman&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16256724872/the-most-eventful-thing-ive-done-today-was-build-a"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16255820255" ><div class="post_content"><div class="post_content_inner"><p>I miss you&hellip;sometimes I just want you to say &ldquo; babe&hellip;I miss you&hellip;come over&hellip;&rdquo; &hellip;. all seventeen year old boys are not the same&hellip;we&rsquo;re not all sex crazed demons&hellip;. at least im not&hellip;at least at least I don&rsquo;t think so&hellip; I would do anything to put a smile on your face&hellip;</p>
+
+<p>&hellip;I don&rsquo;t wanna go back to school&hellip;.back to school means back to work&hellip;.back to work means back to not seeing you&hellip;.and I don&rsquo;t want to not see you&hellip;</p>
+
+<p>While I was creating terry &hellip; I imagined you next to me&hellip;usto drinking hot chocolate&hellip;.laying in bed&hellip;.im fucking gay.</p>
+
+<p>Blah blah blah</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16255820255/i-miss-yousometimes-i-just-want-you-to-say"><div class="hover_inner"><span class="post_date">Jan 21, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16211478339" ><div class="post_content"><div class="post_content_inner"><p>My bed&hellip;it smells like you&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16211478339/my-bedit-smells-like-you"><div class="hover_inner"><span class="post_date">Jan 20, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16199246459" ><div class="post_content"><div class="post_content_inner"><p>I was going to wait to write this post.  My eagerness has overcome me.  You lay on my stomach and a thousand doves above the Carribean beaches as the sun sets could not compare to how beautiful you are.  You&rsquo;re looking at me.  &ldquo;you&rsquo;re writing a novel&rdquo; is what you said.  Little do you know Im writing about you.  Your voice is like a foot massage in my ears.  I haven&rsquo;t heard you sing a full length song, but I know your voice is like fergie and jesus combined from the pieces of songs you do you sing or hum.   Your eyes are closed and my lips want to forever remain pressed against your lips.  My first tumblr post without my virginity.  I gave you my v-card.  I gave you that shit.  It&rsquo;s yours forever now, and there&rsquo;s no one else I would want to have but you.   I was nervous at first, but you calmed ny nerves when you spoke.  Your un-normality made everything better, and I&rsquo;m grateful for that.  I didn&rsquo;t find it weird, nor did I feel weird after.  Everything felt right and that&rsquo;s exactly how I&rsquo;ve imagined it.  Right.  It shouldn&rsquo;t be weird.  At least one not to me.  Im comfortable with you.  Im also grateful you didn&rsquo;t laugh at my penis.  You didn&rsquo;t notice, but I had the condom the wrong way when I was first putting it on.  Gosh I was so fucking horny. I still kind of am, but what seventeen year old boy isn&rsquo;t.  Im gonna go cuz your suspecting things&hellip;.maybe i&rsquo;ll come back later&hellip;maybe not&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16199246459/i-was-going-to-wait-to-write-this-post-my"><div class="hover_inner"><span class="post_date">Jan 20, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16161283342" ><div class="post_content"><div class="post_content_inner"><p>Yo, that dream last night was insane in the membrane&hellip;.I&rsquo;m so excited to see you tomorrow&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16161283342/yo-that-dream-last-night-was-insane-in-the"><div class="hover_inner"><span class="post_date">Jan 20, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16098697145" ><div class="post_content"><div class="post_content_inner"><p>Haha saw extremely loud and incredibly close today&hellip;it was inspirational&hellip;.yet disheartening &hellip;it made me realize not to let fear overwhelm me&hellip;.to take chance&hellip;and most importantly&hellip;.show gratitude and love everyone as if it were there last day&hellip;I love my family and I love aleysha&hellip;.I hope there happy&hellip;because that&rsquo;s allies wavy from them&hellip;</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16098697145/haha-saw-extremely-loud-and-incredibly-close"><div class="hover_inner"><span class="post_date">Jan 18, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16043834714" ><div class="post_content"><div class="post_content_inner"><p>Will not be able to be with you this week due to your midterms&hellip;gah.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16043834714/will-not-be-able-to-be-with-you-this-week-due-to"><div class="hover_inner"><span class="post_date">Jan 17, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16029115610" ><div class="post_content"><div class="post_content_inner"><p>Finally got a real good workout.in&hellip;im worried for you though&hellip;there something going on with you and your family and im helpless&hellip;&hellip;I hope everything get turns cheerful soon &hellip;.im a little curious as to exactly what happened&hellip;but&hellip;its not my buisness</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16029115610/finally-got-a-real-good-workoutinim-worried-for"><div class="hover_inner"><span class="post_date">Jan 17, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_16006268748" ><div class="post_content"><div class="post_content_inner"><p>Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuck.  Why do I fucking turn my phone off&hellip;I should&rsquo;ve been there for you&hellip;.but it better to charge ones phone when it&rsquo;s off&hellip;fuck that shit&hellip;.all I ever do is tell you how im here for you and wasn&rsquo;t fucking there&hellip;.I know I may br acting dramatic&hellip;or exaggerating to the extreme&hellip;.but &hellip;.yea&hellip;.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/16006268748/fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"><div class="hover_inner"><span class="post_date">Jan 17, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15978803544" ><div class="post_content"><div class="post_content_inner"><p>I hate knowing there&rsquo;s something wrong&hellip;and nothing I can do about it</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15978803544/i-hate-knowing-theres-something-wrongand-nothing"><div class="hover_inner"><span class="post_date">Jan 16, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15975281365" ><div class="post_content"><div class="post_content_inner"><p>When you grab my face..my world stops&hellip;.
+Your gaze past my eyes and into my heart&hellip;
+You don&rsquo;t know that I know you know what im thinking at times
+&hellip;
+You lay in my bed&hellip;
+I try my best to avoid turning my head and staring at you&hellip;.
+But its difficult to not sleeping stare at angel</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15975281365/when-you-grab-my-facemy-world-stops-your-gaze"><div class="hover_inner"><span class="post_date">Jan 16, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15870913766" ><div class="post_content"><div class="post_content_inner"><p>Her head slowly declines towards the pillow, yet my eyes remain open. &nbsp;The darkness consumes my room, as my thoughts bounce from one wall to another. &nbsp;Saturday Night Live is on the television, but is barely recognized as I focus more or writing this. &nbsp; </p>
+<p> I&nbsp;stood at home and threw my day in the garbage. &nbsp;Laziness overcame me. &nbsp;I almost went bowling, but I was held captive by my cartoons. &nbsp;I wanted you to invite me over. &nbsp;I wanted to watch football with you. &nbsp;I wanted to take care of you. &nbsp;Not being possessive nor attempting to be a parent, but because you&rsquo;re my baby. &nbsp;If you&rsquo;re sick, I want to be there. &nbsp;Haha, I forget we&rsquo;re boyfriend and girlfriend, not a married couple. &nbsp;</p>
+<p> I love when you lay next to me in my bed, though it makes me only want to kiss you. &nbsp;I&rsquo;m terribly attracted to you, and my hormones become disrupted when I&rsquo;m near you. &nbsp;I love everything about you, and there&rsquo;s nothing i can do about it.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15870913766/her-head-slowly-declines-towards-the-pillow-yet"><div class="hover_inner"><span class="post_date">Jan 15, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15859644269" ><div class="post_content"><div class="post_content_inner"><p>Blah blah blah</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15859644269/blah-blah-blah"><div class="hover_inner"><span class="post_date">Jan 14, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15852245345" ><div class="post_content"><div class="post_content_inner"><p>I wanna watch football with and take care of you</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15852245345/i-wanna-watch-football-with-and-take-care-of-you"><div class="hover_inner"><span class="post_date">Jan 14, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15846629950" ><div class="post_content"><div class="post_content_inner"><p>Poopsicles.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15846629950/poopsicles"><div class="hover_inner"><span class="post_date">Jan 14, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15837065198" ><div class="post_content"><div class="post_content_inner"><p>I hope you feel better soon &hellip; it saddens me to know you don&rsquo;t feel well and there&rsquo;s nothing.I can do about it</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15837065198/i-hope-you-feel-better-soon-it-saddens-me-to"><div class="hover_inner"><span class="post_date">Jan 14, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15815593959" ><div class="post_content"><div class="post_content_inner"><p>I know most of what I write is redundant, but none of it truly captures how I feel.  I feel as if I could spend all day in bed with you.  Haha on that note, it blows how attracted to you I am.  Id like to think you are attracted to me as well.  I hope you know im not rushing.  I just try.  No pressure&hellip;I just want us to be happy&hellip;I don&rsquo;t know what to do tomorrow &hellip;gah</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15815593959/i-know-most-of-what-i-write-is-redundant-but-none"><div class="hover_inner"><span class="post_date">Jan 14, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15808662621" ><div class="post_content"><div class="post_content_inner"><p>No seriously&hellip;I fall more in love with you each day</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15808662621/no-seriouslyi-fall-more-in-love-with-you-each-day"><div class="hover_inner"><span class="post_date">Jan 13, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15739106351" ><div class="post_content"><div class="post_content_inner"><p>Pooping&hellip;just taking it easy from now on&hellip;probably going to go for a run&hellip;it&rsquo;ll help me clear my mind&hellip;the study for my last midterm ever</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15739106351/poopingjust-taking-it-easy-from-now-onprobably"><div class="hover_inner"><span class="post_date">Jan 12, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15704642070" ><div class="post_content"><div class="post_content_inner"><p>Every time I see you, I fall in love all over again.</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15704642070/every-time-i-see-you-i-fall-in-love-all-over"><div class="hover_inner"><span class="post_date">Jan 11, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div>
+<div class="post post_micro is_regular post_tumblelog_c8af769bb4f36da8f7ff143ed53dd6a5 not_mine is_original with_permalink no_source generic_source no_notes reblog_ui_refresh has_hover" id="post_micro_15671519752" ><div class="post_content"><div class="post_content_inner"><p>That feeling you get when you&rsquo;re going to see the one woman you care about who you look&hellip;and you break out all over the place</p></div></div><div class="post_glass post_micro_glass" title=""><a target="_blank" class="hover" title="" href="http://seniorscooba.tumblr.com/post/15671519752/that-feeling-you-get-when-youre-going-to-see-the"><div class="hover_inner"><span class="post_date">Jan 11, 2012</span></div>  
+
+        <div class="hover_tags"></div></a></div>
+</div></section><!-- END CONTENT --></div><div id="pagination"><div rel="nowfollow" id="next_page" style="display:none"><a id="next_page_link" href="/archive/2012/1?before_time=1326294300">Next page &rarr;</a></div></div><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?f63f62d9d04a996a8fcb505da4e74841#" +
+                              "http://seniorscooba.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/archive/2012/1?route=%2Farchive%2F%3Ayear%2F%3Amonth'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/archive/:year/:month';
+                    var tumblelog_id = '5742976';
+                    var yahoo_space_id = '1197719231';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1454083061&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc2VuaW9yc2Nvb2JhLnR1bWJsci5jb21cL2FyY2hpdmVcLzIwMTJcLzEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZVwvOnllYXJcLzptb250aCJ9&U=DNBOMJNAJE&K=befa8b60e53c8fe354b24563000fa9a4713dd80256c40f948c8ac5de993d3089&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1454083061&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc2VuaW9yc2Nvb2JhLnR1bWJsci5jb21cL2FyY2hpdmVcLzIwMTJcLzEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvYXJjaGl2ZVwvOnllYXJcLzptb250aCIsIm5vc2NyaXB0IjoxfQ==&U=DNBOMJNAJE&K=f62ac44b2b9c1269fc1d2e0355cc431459893a04389adcdbbc4e8972c1390600&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=7450eec657e34e1e41dac4e1af96a170';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><div id="browse_months_widget" class="popover popover_gradient" style="display:none"><div class="popover_inner"><section id="year_2015" class="year" style="display:none"><header class="year_navigation"><a class="previous_year" href="#"><span>2014</span></a><span class="current_year">2015</span><div class="next_year"><span></span></div><div class="clear"></div></header><nav class="months"><ul><li><a href="/archive/2015/1">January</a></li><li class="empty"><span>February</span></li><li class="empty"><span>March</span></li><li class="empty"><span>April</span></li><li class="empty"><span>May</span></li><li class="empty"><span>June</span></li><li><a href="/archive/2015/7">July</a></li><li><a href="/archive/2015/8">August</a></li><li><a href="/archive/2015/9">September</a></li><li><a href="/archive/2015/10">October</a></li><li><a href="/archive/2015/11">November</a></li><li><a href="/archive/2015/12">December</a></li></ul></nav></section><section id="year_2014" class="year" style="display:none"><header class="year_navigation"><a class="previous_year" href="#"><span>2013</span></a><span class="current_year">2014</span><a class="next_year" href="#"><span>2015</span></a><div class="clear"></div></header><nav class="months"><ul><li><a href="/archive/2014/1">January</a></li><li class="empty"><span>February</span></li><li class="empty"><span>March</span></li><li><a href="/archive/2014/4">April</a></li><li><a href="/archive/2014/5">May</a></li><li class="empty"><span>June</span></li><li><a href="/archive/2014/7">July</a></li><li class="empty"><span>August</span></li><li class="empty"><span>September</span></li><li class="empty"><span>October</span></li><li><a href="/archive/2014/11">November</a></li><li><a href="/archive/2014/12">December</a></li></ul></nav></section><section id="year_2013" class="year" style="display:none"><header class="year_navigation"><a class="previous_year" href="#"><span>2012</span></a><span class="current_year">2013</span><a class="next_year" href="#"><span>2014</span></a><div class="clear"></div></header><nav class="months"><ul><li><a href="/archive/2013/1">January</a></li><li><a href="/archive/2013/2">February</a></li><li><a href="/archive/2013/3">March</a></li><li><a href="/archive/2013/4">April</a></li><li><a href="/archive/2013/5">May</a></li><li><a href="/archive/2013/6">June</a></li><li><a href="/archive/2013/7">July</a></li><li><a href="/archive/2013/8">August</a></li><li class="empty"><span>September</span></li><li class="empty"><span>October</span></li><li><a href="/archive/2013/11">November</a></li><li><a href="/archive/2013/12">December</a></li></ul></nav></section><section id="year_2012" class="year" style="display:block"><header class="year_navigation"><a class="previous_year" href="#"><span>2011</span></a><span class="current_year">2012</span><a class="next_year" href="#"><span>2013</span></a><div class="clear"></div></header><nav class="months"><ul><li><a href="/archive/2012/1">January</a></li><li><a href="/archive/2012/2">February</a></li><li><a href="/archive/2012/3">March</a></li><li><a href="/archive/2012/4">April</a></li><li><a href="/archive/2012/5">May</a></li><li><a href="/archive/2012/6">June</a></li><li><a href="/archive/2012/7">July</a></li><li><a href="/archive/2012/8">August</a></li><li><a href="/archive/2012/9">September</a></li><li><a href="/archive/2012/10">October</a></li><li><a href="/archive/2012/11">November</a></li><li><a href="/archive/2012/12">December</a></li></ul></nav></section><section id="year_2011" class="year" style="display:none"><header class="year_navigation"><a class="previous_year" href="#"><span>2010</span></a><span class="current_year">2011</span><a class="next_year" href="#"><span>2012</span></a><div class="clear"></div></header><nav class="months"><ul><li><a href="/archive/2011/1">January</a></li><li><a href="/archive/2011/2">February</a></li><li><a href="/archive/2011/3">March</a></li><li><a href="/archive/2011/4">April</a></li><li><a href="/archive/2011/5">May</a></li><li><a href="/archive/2011/6">June</a></li><li><a href="/archive/2011/7">July</a></li><li><a href="/archive/2011/8">August</a></li><li class="empty"><span>September</span></li><li><a href="/archive/2011/10">October</a></li><li><a href="/archive/2011/11">November</a></li><li><a href="/archive/2011/12">December</a></li></ul></nav></section><section id="year_2010" class="year" style="display:none"><header class="year_navigation"><div class="previous_year"><span></span></div><span class="current_year">2010</span><a class="next_year" href="#"><span>2011</span></a><div class="clear"></div></header><nav class="months"><ul><li class="empty"><span>January</span></li><li class="empty"><span>February</span></li><li class="empty"><span>March</span></li><li class="empty"><span>April</span></li><li class="empty"><span>May</span></li><li class="empty"><span>June</span></li><li><a href="/archive/2010/7">July</a></li><li><a href="/archive/2010/8">August</a></li><li><a href="/archive/2010/9">September</a></li><li><a href="/archive/2010/10">October</a></li><li><a href="/archive/2010/11">November</a></li><li><a href="/archive/2010/12">December</a></li></ul></nav></section></div></div><script src="http://assets.tumblr.com/client/prod/app/context/archive/index.js?_v=bb5215631f3c8e73d8ed5ed93c18efbb"></script>
+<script>require("context").bootloader({"Components":{"LogLady":{"keys":{"search_landing_usage":{"init_event":false,"keep_counts":true,"flags":[]},"search_session_v1":{"init_event":false,"keep_counts":false,"flags":[]}},"default_session":"llsid56ab8bf5cf4357.71285745"}},"Flags":[],"Context":{"name":"archive","time":1454083061000,"userinfo":{"primary":"","name":"","channels":[]},"hosts":{"assets_host":"http:\/\/assets.tumblr.com","secure_assets_host":"https:\/\/secure.assets.tumblr.com","www_host":"http:\/\/www.tumblr.com","secure_www_host":"https:\/\/www.tumblr.com","embed_host":"https:\/\/embed.tumblr.com","safe_host":"http:\/\/safe.txmblr.com","platform_host":"http:\/\/platform.tumblr.com"},"language":"en_US","language_simple":"en"},"Translations":{"Private Url":"Private URL"}});</script>
+</body></html>
