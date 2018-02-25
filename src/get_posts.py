@@ -4,9 +4,10 @@ from post import Post
 import sys
 import re
 
-postsFile=sys.argv[1]
-file = open(postsFile, "r")
+yearlyPostsFile=sys.argv[1]
+file = open(yearlyPostsFile, "r")
 
+postMap = {}
 for line in file:
 	#print(line)
 	
@@ -14,4 +15,15 @@ for line in file:
 	#strippedLine = re.sub('[\s+]', '', line)
 	post = Post(line)
 	#print(strippedLine)
-	print("DATE: " + post.getDate() + "---CONTENT: " + str(post.getContent()) + "---YEAR: " + post.getYear() + "---MONTH: " + post.getMonth())
+	
+	postDate = post.getDate()
+	if postDate in postMap.keys():
+	#	print(postMap[postDate])
+		postMap[str(int(postDate) + 1)] = post.getContent()
+	#	print(postMap[str(int(postDate) + 1)])
+	else:
+		postMap[postDate] = post.getContent()
+
+keyList = postMap.keys().sort()
+for key in sorted(postMap):
+	print("key: " + str(key) +  " POST: " + str(postMap[key]))

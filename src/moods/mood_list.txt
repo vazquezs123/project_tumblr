@@ -1,0 +1,16 @@
+# The below moods map key words to particular moods
+# I had a scholarly socialogy article that did
+# so, however I lost the bookmark like a fool
+# I tried to use simplest for of each word 
+# in order to land the same hits with less
+# queries, so for example sad covers a bunch
+# of other words, like saddens and sadly
+
+# sad
+
+key_words:
+- sad
+- depress
+- gloom
+-
+

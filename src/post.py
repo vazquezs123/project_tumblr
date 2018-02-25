@@ -12,10 +12,8 @@ class Post(object):
 		self.content = self.cleanContent(content)
 
 	def cleanContent(self, content):
-		print("got content")
 		tempCont = str(content).replace('\\n','')
 		tempCont = tempCont.replace('\t','')
-		print("tempcont:" + str(tempCont))
 		return tempCont
 	
 	def parseDate(self, unparsedDate):
@@ -60,7 +58,7 @@ class Post(object):
 			parsedDate = parsedDate + self.day
 		else:
 			parsedDate = parsedDate + "0" + self.day
-		return parsedDate
+		return parsedDate + '00'
 		
 	def getYear(self):
 		return self.year
@@ -74,9 +72,18 @@ class Post(object):
 
 	def getDate(self):
 		return self.date
+
+	def setDate(newDate):
+		self.date = newDate
 	
 	def getContent(self):
 		return self.content
+	
+	def printPost(self):
+		print('---------------------------------------------------------------------')
+        	print("DATE: " + self.date + "\nCONTENT: " + self.content +
+                "\nYEAR: " + self.year + "\nMONTH: " + self.month +
+                "\nDay: " + self.day)
 
 	def searchWord(self, content, word):
 		pass	
